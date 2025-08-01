@@ -1,7 +1,7 @@
+BackMeUp:
+is a program I developed in Python and compiled into a .EXE file that backs up folders. It makes backing up easier and faster. The program is currently a work in progress (WIP).
 
-BackMeUp is a program I developed in Python and compiled into a .EXE file that backs up folders. It makes backing up easier and faster. The program is currently a work in progress (WIP).
-
-Usage
+Usage:
 When you first open BackMeUp, you will be prompted to enter a valid working directory that is part of your main computer files. Once inside, you will see all the files and folders in that directory.
 
 Find a folder to back up. A folder looks like this: "(folder name)". As you can see, it does not have a file extension such as .exe or .txt.
@@ -12,5 +12,5 @@ If the backup folder already exists, you will be asked whether you want to overw
 
 To exit the program while it is running, press the CTRL + C keyboard combination to close it successfully.
 
-Additional Notes
+Additional Notes:
 All files are currently a work in progress.
